@@ -1,12 +1,8 @@
-Hello Assignment 1 for 2019
-
-You can use the [editor on GitHub](https://github.com/AlexLoos20/-1-First-Assignment-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### What Are My Interests?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My interests in IT come from a range of sources, from being around technology and computers from a very young age and growing up with emerging tech and industry. I feel as though the next big tech jump will come from our generation. 
+
+
 
 ```markdown
 Syntax highlighted code block
