@@ -15,7 +15,7 @@ Although my knowledge of games is large, my knowledge of how they work and how o
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**### Ideal Job**
 
 ### Jekyll Themes
 
