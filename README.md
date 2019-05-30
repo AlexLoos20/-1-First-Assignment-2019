@@ -11,14 +11,9 @@ I originally come from the Netherlands, was raised in England until aroun 13 yea
 Although my knowledge of games is large, my knowledge of how they work and how other systems work is something i have yet to discover, this is the main reason i'm doing this course, so that i may build knowledge of how different systems opperate and then be able to modify/ improve them. I plan on finding a job within the Cyber Security side of things as i believe as the world becomes more digital it also becomes more vulnerable.
 
 
-
-```markdown
 ![2019-04-27 19-13 _68 4, 8 0, -5 3_0 0, -1 0, 0 1, 0 0 (0)](https://user-images.githubusercontent.com/51146281/58609103-bd834b80-82e9-11e9-82c3-ad1514d112fc.png)
 
 
-
-
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
