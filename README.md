@@ -15,7 +15,7 @@ Although my knowledge of games is large, my knowledge of how they work and how o
 
 
 
-**### Ideal Job**
+###** Ideal Job**
 
 ### Jekyll Themes
 
