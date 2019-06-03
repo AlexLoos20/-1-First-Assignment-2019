@@ -15,6 +15,15 @@ Although my knowledge of games is large, my knowledge of how they work and how o
 
 
 
+#### Myer Briggs Test Results
+
+The test i took to uncover my personality was actually very suprising for me, is outlined a bunch of questions i had yet to answer and made me think about myself. The results were as follows 
+
+"ADVENTURER"   Mind: 79% introverted  Energy: 55% Observant  Nature: 54% Feeling  Tactics: 60% Prospecting  Identity: 54% Assertive 
+
+These results made me realise im very introverted and i like to be by myself alot, I should try in future to socialize more.
+
+
 #### Ideal Job
 
 My ideal job would eventually be a security consultant 
