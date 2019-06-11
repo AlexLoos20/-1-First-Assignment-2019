@@ -36,7 +36,17 @@ This may impact the way i handle the group task in a way that im not quite sure,
 
 #### Ideal Job
 
-My ideal job would eventually be a security consultant, With this role i would be able to gain skill in an expanding market, as more things get digital, more of the world becomes accessible to people with bad intentions.
+My ideal job would eventually be a cyber security consultant, With this role i would be able to gain skill in an expanding market, as more things get digital, more of the world becomes accessible to people with bad intentions.
 
 The role of security consultant would provide my life long dream of becoming a Federal police officer with the combination of using advanced technology, Crimefighting has always been a passion of mine and i have always been decent with technology, if i am able to make this happen it would mean the world to me.
+
+### Requirments for the role
+
+The job requires alot of different qualifications, a few are listed below
+
+1.  Vulnerability testing, risk analyses and security assesments on networks.
+
+2. Responding to security breaches (unauthorized access, modification/distruction) 
+
+3. Develop security protocols for businesses, research and recommend updates for previous systems.
 
