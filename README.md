@@ -50,3 +50,7 @@ The job requires alot of different qualifications, a few are listed below
 
 3. Develop security protocols for businesses, research and recommend updates for previous systems.
 
+### Current Skills and Qualifications 
+
+Unfortunatley i dont have any of these skills yet and no knowledge on security sytems or how they work. My plan is to use this course as a gateway into cyber security and find a suitable course for the role, it will take a few years but in the end i should be able to achive what i want.
+
