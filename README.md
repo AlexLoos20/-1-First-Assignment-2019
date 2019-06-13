@@ -6,7 +6,7 @@ My interests in IT come from a range of sources, from being around technology an
 
 **Who Am I** 
 
-I originally come from the Netherlands, was raised in England until aroun 13 years old then moved here to be closer to family, i was raised around technology and what sparked my curiosity in Tech and gaming was a series known as Call of Duty, i would play it every chance i got as a small child, this was the starting point to me owning every game i could find and get. Then when Medal of Hounor and Battlefield came into the light i played all of them, i now own every MOH and BAttlefield title ever made, yes, even Battlefield free to play. 
+I originally come from the Netherlands, was raised in England until around 13 years old then moved here to be closer to family, i was raised around technology and what sparked my curiosity in Tech and gaming was a series known as Call of Duty, i would play it every chance i got as a small child, this was the starting point to me owning every game i could find and get. Then when Medal of Hounor and Battlefield came into the light i played all of them, i now own every MOH and BAttlefield title ever made, yes, even Battlefield free to play. 
 
 Although my knowledge of games is large, my knowledge of how they work and how other systems work is something i have yet to discover, this is the main reason i'm doing this course, so that i may build knowledge of how different systems opperate and then be able to modify/ improve them. I plan on finding a job within the Cyber Security side of things as i believe as the world becomes more digital it also becomes more vulnerable.
 
