@@ -54,10 +54,13 @@ The job requires alot of different qualifications, a few are listed below
 
 Unfortunatley i dont have any of these skills yet and no knowledge on security sytems or how they work. My plan is to use this course as a gateway into cyber security and find a suitable course for the role, it will take a few years but in the end i should be able to achive what i want.
 
-** Project Time**
+**Project Time**
 
 ### Overview
 
 For the project i am creating an automatic farm in minecraft, it will be a very rough outline in the point i will try to convey. The automatic farm will be a sugarcane cutter with a hopper feed into a chest that stores the cut sugar cane, it will include some "redstone" blocks that act as computers of sorts and multiple " redstone repeaters" that would be timers in real life. 
 The way that the computers would run in real life would be completely different as there is alot of programming involved for making sure the robot doing the harvesting is picking the correct time to harvest and not doing it too early or late, an additional program the robot could have would be the installation of an auto weeder (which already exists [Anatis autonomous weeder]) however, this would be too difficult the portray within minecraft and would almost be impossible.
 
+### Motivation
+
+The motivation for this project comes with my interest in Agriculture and computers, i believe that one day we will be able to utilize more and more technology for farming purposes and eventually have completely automated farms in the near future. At this point in time (2019) we already have self driving tractors and harvesters, these top end companies such as CASE and New Holland have these such technology on board. Having ridden in one of these machines it is so interesting to watch how the computer can sense the density of the soil underneath the tires and also keeping in the rows of the lane as to not damage crops.
