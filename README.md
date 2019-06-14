@@ -72,7 +72,9 @@ The motivation for this project comes with my interest in Agriculture and comput
 
 
 Above is the screen cap of the projeect itself made within minecraft, it is a simple automatic system utilizing only a few materials. As it is impossible the create a computer within the game to identify a grown item i had to make a continuous sweeper arm that sweeps the sugar cane at a certain level. The red blocks on the screen are in place of a computer. 
+
 At the moment there is a small demand for autonmous farming equipment as the people who generally manage the farm do not trust technology with multimillion dollar crops, but as recent studies have shown, the demand for robotics is rising and eventually will be adopted into every industry, robot have been used for making cars and other products for some time but it is only recently that the technology is being taken seriously by other industries, farming being one of them, as it is easier and somewhat cheaper to purchase a robot that can have multiple differetn algorythems given to it and for it to be able to execute the algorythem perfectly everytime it does it hich reduces the need for unskilled workers to be trained and shown how to use different machiens.
+
 This automatic harvester built within the game allows the player to go and do other things without the need of standing around waiting for litteral grass to grow, it would allow people in realy life to leave the robot running and only going to service it once in a while, saving time for other activities which are more important. 
 
 
