@@ -79,5 +79,10 @@ At the moment there is a small demand for autonmous farming equipment as the peo
 This automatic harvester built within the game allows the player to go and do other things without the need of standing around waiting for litteral grass to grow, it would allow people in realy life to leave the robot running and only going to service it once in a while, saving time for other activities which are more important. 
 
 
+![Assignment](https://user-images.githubusercontent.com/51146281/59488757-b9e3ed00-8ec3-11e9-8ae7-6692bf331be2.gif)
+
+
+
+
 
 
