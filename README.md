@@ -68,7 +68,8 @@ The motivation for this project comes with my interest in Agriculture and comput
 ### Description
 
 
-![Minecraft Screenshot 2019 06 14 - 15 56 36 40](https://user-images.githubusercontent.com/51146281/59486646-5951b180-8ebd-11e9-9455-cff5ef384c08.png)
+![Minecraft Screenshot 2019 06 14 - 15 56 56 58](https://user-images.githubusercontent.com/51146281/59488288-7fc61b80-8ec2-11e9-8eb3-c2083c17ae16.png)
+
 
 
 Above is the screen cap of the projeect itself made within minecraft, it is a simple automatic system utilizing only a few materials. As it is impossible the create a computer within the game to identify a grown item i had to make a continuous sweeper arm that sweeps the sugar cane at a certain level. The red blocks on the screen are in place of a computer. 
