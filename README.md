@@ -64,3 +64,7 @@ The way that the computers would run in real life would be completely different 
 ### Motivation
 
 The motivation for this project comes with my interest in Agriculture and computers, i believe that one day we will be able to utilize more and more technology for farming purposes and eventually have completely automated farms in the near future. At this point in time (2019) we already have self driving tractors and harvesters, these top end companies such as CASE and New Holland have these such technology on board. Having ridden in one of these machines it is so interesting to watch how the computer can sense the density of the soil underneath the tires and also keeping in the rows of the lane as to not damage crops.
+
+### Description
+
+
