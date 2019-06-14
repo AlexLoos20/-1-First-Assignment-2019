@@ -82,7 +82,29 @@ This automatic harvester built within the game allows the player to go and do ot
 ![Assignment](https://user-images.githubusercontent.com/51146281/59488757-b9e3ed00-8ec3-11e9-8ae7-6692bf331be2.gif)
 
 
+### Tools and Technologies
+
+The technology required for this project are very simple, you need a laptop for running the game. 
+
+The tools needed to make this model are 
+
+1. Minecraft.exe
+
+2. Redstone repeater
+
+3.Conductive and slippery blocks
+
+4. Crop of choice
+
+5. Hopper collection system
 
 
+### Skills Required
+
+The only skill for the job needed is an understanding on how redstone and certain block types work together within the game, through testing i found that iron block dont work for a non-stick surface, i had to replace them with obsidian blocks for everything to move fluently. Also through play testing the sweeper arm i noticed that if the arm moved too quickly it would bug out and crash the game, i fixed this by using a redstone repeater (timer) to slow down the mechanism.
+
+### Outcome
+
+The outcome for this project was to spark intrigue into automated farming systems and describe a very simple model that can be built within a game the show an idea, It was meant to showcase something simple and get people talking about the future of not just farming but any other industry that uses or doesnt use robots.
 
 
