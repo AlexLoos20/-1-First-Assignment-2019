@@ -50,6 +50,8 @@ The job requires alot of different qualifications, a few are listed below
 
 3. Develop security protocols for businesses, research and recommend updates for previous systems.
 
+4. Distinction Degree
+
 ### Current Skills and Qualifications 
 
 Unfortunatley i dont have any of these skills yet and no knowledge on security sytems or how they work. My plan is to use this course as a gateway into cyber security and find a suitable course for the role, it will take a few years but in the end i should be able to achive what i want.
@@ -107,4 +109,17 @@ The only skill for the job needed is an understanding on how redstone and certai
 
 The outcome for this project was to spark intrigue into automated farming systems and describe a very simple model that can be built within a game the show an idea, It was meant to showcase something simple and get people talking about the future of not just farming but any other industry that uses or doesnt use robots.
 
+**Reference** 
+
+https://www.futurefarming.com/Machinery/Articles/2017/6/How-robotic-weeders-are-set-to-revolutionise-farming-2017WP/
+
+https://www.minecraft.net/en-us/
+
+https://www.16personalities.com/free-personality-test
+
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+
+http://www.testmycreativity.com/
+
+https://www.seek.com.au/job/39228438?searchrequesttoken=daeb2509-da70-4da9-aab8-f13a662441fc&type=standout
 
